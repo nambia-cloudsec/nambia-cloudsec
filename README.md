@@ -1,6 +1,8 @@
 # Hi, I am Nambia 👋
 
-Aspiring Cloud Security Engineer | Linux & Automation Enthusiast
+🚀 Aspiring Cloud Security Engineer  
+🔐 Linux & Automation Enthusiast  
+📍 Building secure infrastructure foundations  
 
 I am building strong foundations in:
 
@@ -54,3 +56,11 @@ To transition into a Cloud Security Engineering role by combining:
 ---
 
 Let's connect and grow 🚀
+
+---
+
+## 📊 GitHub Stats
+
+![Nambia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nambia-cloudsec&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nambia-cloudsec&layout=compact&theme=tokyonight)
