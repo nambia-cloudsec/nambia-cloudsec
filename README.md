@@ -1,4 +1,4 @@
-# Hi, I'm Lucy Mangare 👋
+# Hi, I am Nambia 👋
 
 Aspiring Cloud Security Engineer | Linux & Automation Enthusiast
 
