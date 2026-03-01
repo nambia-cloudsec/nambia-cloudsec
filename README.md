@@ -22,13 +22,16 @@ I am building strong foundations in:
 
 ---
 
-## Technical Stack
+## 🛠 Technical Stack
 
-- Ubuntu Linux
-- Git & GitHub
-- Bash Scripting
-- Python 3
-- VirtualBox Lab Environment
+---
+
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-LabEnvironment-183A61?logo=virtualbox&logoColor=white)
 
 ---
 
