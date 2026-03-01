@@ -63,8 +63,5 @@ Let's connect and grow 🚀
 
 ## 📊 GitHub Stats
 
-![Nambia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nambia-cloudsec&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nambia-cloudsec&layout=compact&theme=tokyonight)
-
-![GitHub Avatar](https://github.com/nambia-cloudsec.png?size=100)
+Check my contributions and top repositories here:  
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/nambia-cloudsec)
