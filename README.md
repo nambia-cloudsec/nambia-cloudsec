@@ -59,8 +59,12 @@ Let's connect and grow 🚀
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 ![Nambia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nambia-cloudsec&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nambia-cloudsec&layout=compact&theme=tokyonight)
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nambia-cloudsec&theme=react-dark)
